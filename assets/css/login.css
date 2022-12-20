@@ -1,0 +1,13 @@
+#login{
+    margin: 10%;
+    width: 50%;
+    color: white; 
+    /* bg-secondary bg-dark */
+}
+#login img{
+    margin: 1%;
+    width: 9%;
+}
+#login button{
+    margin: 1%;
+}

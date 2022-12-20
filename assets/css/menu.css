@@ -1,0 +1,57 @@
+.link.active{
+    background-color: #31f18b !important;
+}
+nav{
+    color: #31f18b;
+}
+
+.radioline
+{
+    display: inline;
+}
+p{
+    font-size:2em;
+    font-weight:bold;
+    align-items: center;
+
+    
+    
+}
+.top{
+    margin-top: 15%;
+}
+tab-pane{
+    position: relative;
+   
+}
+select{
+    margin-top: 20%;
+    margin-bottom: 2%;
+
+}
+.disabled{
+    opacity: 0.4;
+}
+.progress-bar{
+    background-color: #31f18b !important;
+    
+}
+
+.section{
+    position: absolute;
+    left: 22%;
+    top: 12%;
+
+}
+#menuImg{
+    width: 100%;
+}
+#menuImg{
+width: 100%;
+}
+footer{
+  bottom: 0; 
+}
+
+
+
