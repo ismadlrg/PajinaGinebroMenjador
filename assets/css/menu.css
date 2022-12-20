@@ -50,7 +50,38 @@ select{
 width: 100%;
 }
 footer{
-  bottom: 0; 
+
+
+  width: 100%;
+
+    
+}
+nav{
+    position:fixed;
+    top: 0;
+}
+section{
+    margin-top: 3%;
+    padding-top: 3%;
+}
+@media screen and (max-width: 600px) {
+
+   footer{
+    position:fixed;
+    bottom: 0;
+   }
+   section{
+    display: flex;
+   }
+   section ul {
+    display: block;
+   }
+   
+   
+    
+    
+    
+    
 }
 
 

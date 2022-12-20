@@ -11389,11 +11389,7 @@ textarea {
 .page-navbar.affix .navbar-brand {
   font-size: 24px;
 }
-footer{
-  position:fixed;
-  bottom:0;
-  width: 100%;
-}
+
 
 .footer .social-links {
   margin-top: 10px;
